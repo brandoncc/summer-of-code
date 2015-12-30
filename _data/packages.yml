@@ -242,15 +242,17 @@
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
-    - name: Tealeaf Academy
-      id: tealeaf
-      url: http://gotealeaf.com
+    - name: Launch School
+      id: launch_school
+      url: http://launchschool.com
       text: |-
-        <a href="http://www.gotealeaf.com/" target="_blank">Tealeaf Academy</a> is an
-        online school for learning professional grade web development. Its 3-course
-        bootcamp-style curriculum takes students from development fundamentals to
-        building complex production quality web applications. Tealeaf believes in the
-        RailsGirls mission, and are strong supporters of diversity in the programming
+        <a href="http://launchschool.com/" target="_blank">Launch School</a>
+        is an online program for serious beginners whose goal is to become
+        professional developers. The program focuses on fundamentals of
+        programming and software engineering, and guides students through a
+        structured path of building up proficiency in software development.
+        Launch School believes in the RailsGirls mission, and are strong
+        supporters of diversity in the programming
         industry.
       years:
         - 2014
